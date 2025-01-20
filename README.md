@@ -130,15 +130,3 @@ Render in a Svelte component:
 - 🏗 **Lightweight & Modular**: Designed for SvelteKit applications.
 
 ---
-
-## Project Name
-
-After considering various names, I suggest **SveltePB-Subscriber**. It's concise, descriptive, and keeps the focus on reactivity and PocketBase.
-
-Alternative names:
-
-- **SveltePocketSync**
-- **PocketSvelteLive**
-- **SveltePocketReactive**
-
-Let me know if you'd like other suggestions!
