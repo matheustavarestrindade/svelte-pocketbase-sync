@@ -1,10 +1,10 @@
 {
 	"name": "svelte-pocketbase-sync",
-    "author": "Matheus Tavares Trindade",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/matheustavarestrindade/svelte-pocketbase-sync" 
-    },
+	"author": "Matheus Tavares Trindade",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/matheustavarestrindade/svelte-pocketbase-sync"
+	},
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
@@ -51,5 +51,23 @@
 	},
 	"dependencies": {
 		"pocketbase": "^0.25.0"
-	}
+	},
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"pocketbase",
+		"reactive",
+		"real-time",
+		"data-sync",
+		"svelte-pocketbase",
+		"subscription",
+		"database",
+		"collections",
+		"records",
+		"authentication",
+		"svelte-store",
+		"data-binding",
+		"svelte-wrapper",
+		"real-time-database"
+	]
 }
