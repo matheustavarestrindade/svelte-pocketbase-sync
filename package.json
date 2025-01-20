@@ -1,6 +1,10 @@
 {
 	"name": "svelte-pocketbase-sync",
-    "author": "Matheus trindade",
+    "author": "Matheus Tavares Trindade",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matheustavarestrindade/svelte-pocketbase-sync" 
+    },
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
